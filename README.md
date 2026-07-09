@@ -73,7 +73,7 @@ daisyui
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/muhiuddinshanto/ph-play-store
+git clone https://github.com/mohiuddinshanto/ph-play-store
 ```
 
 ### 2. Navigate to project folder
@@ -120,7 +120,7 @@ src/
 ## Relevant Links
 
 * 🌐 Live Site: [https://ph-play-store-mohiuddin.netlify.app/](https://ph-play-store-mohiuddin.netlify.app/)
-* 📦 GitHub Repository: [https://github.com/muhiuddinshanto/ph-play-store](https://github.com/muhiuddinshanto/ph-play-store)
+* 📦 GitHub Repository: [https://github.com/mohiuddinshanto/ph-play-store](https://github.com/mohiuddinshanto/ph-play-store)
 * 🎨 Assets: Local public/assets folder
 * 📊 Data Source: Local JSON file (/data.json)
 
@@ -129,4 +129,4 @@ src/
 ## Author
 
 **Mohiuddin**
-GitHub: [https://github.com/muhiuddinshanto](https://github.com/muhiuddinshanto)
+GitHub: [https://github.com/mohiuddinshanto](https://github.com/mohiuddinshanto)
